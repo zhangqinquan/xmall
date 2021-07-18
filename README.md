@@ -1,19 +1,18 @@
-# xmall
+# xmall商城
 
-## Project setup
+## 启动服务器
 ```
-npm install
+*需要有Node运行环境
+1.server文件夹下运行npm install安装运行依赖
+2.安装完依赖后在server文件下下运行node app.js启动服务器
 ```
 
-### Compiles and hot-reloads for development
+## 下载项目依赖
+```
+在克隆到的文件夹下运行npm install
+```
+
+### 启动项目
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
